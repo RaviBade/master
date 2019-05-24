@@ -1,0 +1,80 @@
+[INFO ] 2019-05-24 09:27:48.616 [main] FilesMetadataProvider -  Scan test data folder for files 
+[INFO ] 2019-05-24 09:27:48.629 [main] FilesMetadataProvider -  Files Metadata: 
+[INFO ] 2019-05-24 09:27:48.629 [main] FilesMetadataProvider - *****************
+[INFO ] 2019-05-24 09:27:52.161 [main] FilesMetadataProvider -  File Name - EN13XSCMINI.csv, File Type - .csv, File Size - 50.0 bytes, and File MIME Type - text/csv
+[INFO ] 2019-05-24 09:27:52.162 [main] FilesMetadataProvider -  File Name - EY66EBAPEUGEOT.xlsx, File Type - .xlsx, File Size - 8391.0 bytes, and File MIME Type - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+[INFO ] 2019-05-24 09:27:52.276 [main] FilesMetadataProvider -  File Name - FH67ZZMDACIA.xlsx, File Type - .xlsx, File Size - 8402.0 bytes, and File MIME Type - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+[INFO ] 2019-05-24 09:27:52.277 [main] FilesMetadataProvider -  File Name - FT10LFVSKODA.csv, File Type - .csv, File Size - 53.0 bytes, and File MIME Type - text/csv
+[INFO ] 2019-05-24 09:27:52.278 [main] FilesMetadataProvider -  File Name - HEZ5324TOYOTA.xlsx, File Type - .xlsx, File Size - 8989.0 bytes, and File MIME Type - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+[INFO ] 2019-05-24 09:27:52.279 [main] FilesMetadataProvider -  File Name - NK56NTJBMW.csv, File Type - .csv, File Size - 50.0 bytes, and File MIME Type - text/csv
+[INFO ] 2019-05-24 09:27:52.280 [main] FilesMetadataProvider -  File Name - SampleFile.txt, File Type - .txt, File Size - 253.0 bytes, and File MIME Type - text/plain
+[INFO ] 2019-05-24 09:27:52.281 [main] FilesMetadataProvider -  File Name - SampleTestFile.pptx, File Type - .pptx, File Size - 33878.0 bytes, and File MIME Type - application/vnd.openxmlformats-officedocument.presentationml.presentation
+[INFO ] 2019-05-24 09:27:52.282 [main] FilesMetadataProvider -  File Name - SL66LKPHYUNDAI.csv, File Type - .csv, File Size - 55.0 bytes, and File MIME Type - text/csv
+[INFO ] 2019-05-24 09:27:52.282 [main] FilesMetadataProvider -  File Name - TestdataCsv.csv, File Type - .csv, File Size - 251.0 bytes, and File MIME Type - text/csv
+[INFO ] 2019-05-24 09:27:52.283 [main] FilesMetadataProvider -  File Name - TestdataExcel.xlsx, File Type - .xlsx, File Size - 9474.0 bytes, and File MIME Type - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+[INFO ] 2019-05-24 09:27:52.284 [main] FilesMetadataProvider -  File Name - TestFile.docx, File Type - .docx, File Size - 13559.0 bytes, and File MIME Type - application/vnd.openxmlformats-officedocument.wordprocessingml.document
+[INFO ] 2019-05-24 09:27:52.285 [main] FilesMetadataProvider -  File Name - VO56VDDVAUXHALL.csv, File Type - .csv, File Size - 55.0 bytes, and File MIME Type - text/csv
+[INFO ] 2019-05-24 09:27:52.286 [main] FilesMetadataProvider -  File Name - Y881FANHONDA.xlsx, File Type - .xlsx, File Size - 8402.0 bytes, and File MIME Type - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+[INFO ] 2019-05-24 09:27:52.286 [main] FilesMetadataProvider -  File Name - YX03ZLKNISSAN.xlsx, File Type - .xlsx, File Size - 8368.0 bytes, and File MIME Type - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+[INFO ] 2019-05-24 09:27:52.309 [main] StepDefinitions - 
+ 
+[INFO ] 2019-05-24 09:27:52.311 [main] StepDefinitions - List of Excel files: 
+[INFO ] 2019-05-24 09:27:52.312 [main] StepDefinitions - *********************
+[INFO ] 2019-05-24 09:27:52.313 [main] StepDefinitions - EY66EBAPEUGEOT.xlsx
+[INFO ] 2019-05-24 09:27:52.314 [main] StepDefinitions - FH67ZZMDACIA.xlsx
+[INFO ] 2019-05-24 09:27:52.314 [main] StepDefinitions - HEZ5324TOYOTA.xlsx
+[INFO ] 2019-05-24 09:27:52.315 [main] StepDefinitions - TestdataExcel.xlsx
+[INFO ] 2019-05-24 09:27:52.316 [main] StepDefinitions - Y881FANHONDA.xlsx
+[INFO ] 2019-05-24 09:27:52.316 [main] StepDefinitions - YX03ZLKNISSAN.xlsx
+[INFO ] 2019-05-24 09:27:52.317 [main] StepDefinitions - 
+ 
+[INFO ] 2019-05-24 09:27:52.318 [main] StepDefinitions - List of CSV files: 
+[INFO ] 2019-05-24 09:27:52.318 [main] StepDefinitions - *********************
+[INFO ] 2019-05-24 09:27:52.319 [main] StepDefinitions - EN13XSCMINI.csv
+[INFO ] 2019-05-24 09:27:52.320 [main] StepDefinitions - FT10LFVSKODA.csv
+[INFO ] 2019-05-24 09:27:52.321 [main] StepDefinitions - NK56NTJBMW.csv
+[INFO ] 2019-05-24 09:27:52.322 [main] StepDefinitions - SL66LKPHYUNDAI.csv
+[INFO ] 2019-05-24 09:27:52.322 [main] StepDefinitions - TestdataCsv.csv
+[INFO ] 2019-05-24 09:27:52.323 [main] StepDefinitions - VO56VDDVAUXHALL.csv
+[INFO ] 2019-05-24 09:28:34.287 [main] StepDefinitions - Opening the browser
+[INFO ] 2019-05-24 09:28:51.981 [main] StepDefinitions -  Reading Excel file data 
+[INFO ] 2019-05-24 09:29:16.756 [main] StepDefinitions - Opening the browser 
+[INFO ] 2019-05-24 09:29:18.929 [main] StepDefinitions -  Navigating to vehicle confirmation page 
+[INFO ] 2019-05-24 09:29:27.265 [main] StepDefinitions -  Navigating to vehicle information validation page 
+[INFO ] 2019-05-24 09:29:29.395 [main] StepDefinitions -  Reading vehicle information for validation 
+[INFO ] 2019-05-24 09:29:29.396 [main] StepDefinitions - 
+ Actual vehicle make for registration number YX03 ZLK is NISSAN same as expected NISSAN
+[INFO ] 2019-05-24 09:29:29.397 [main] StepDefinitions - 
+ Actual vehicle colour for registration number YX03 ZLK is GREY same as expected GREY
+[INFO ] 2019-05-24 09:29:50.830 [main] StepDefinitions - Opening the browser 
+[INFO ] 2019-05-24 09:29:52.909 [main] StepDefinitions -  Navigating to vehicle confirmation page 
+[INFO ] 2019-05-24 09:30:02.317 [main] StepDefinitions -  Navigating to vehicle information validation page 
+[INFO ] 2019-05-24 09:30:03.254 [main] StepDefinitions -  Reading vehicle information for validation 
+[INFO ] 2019-05-24 09:30:03.255 [main] StepDefinitions - 
+ Actual vehicle make for registration number EY66 EBA is PEUGEOT same as expected PEUGEOT
+[INFO ] 2019-05-24 09:30:03.256 [main] StepDefinitions - 
+ Actual vehicle colour for registration number EY66 EBA is WHITE same as expected WHITE
+[INFO ] 2019-05-24 09:30:30.931 [main] StepDefinitions - Opening the browser 
+[INFO ] 2019-05-24 09:30:33.281 [main] StepDefinitions -  Navigating to vehicle confirmation page 
+[INFO ] 2019-05-24 09:30:43.637 [main] StepDefinitions -  Navigating to vehicle information validation page 
+[INFO ] 2019-05-24 09:30:47.497 [main] StepDefinitions -  Reading vehicle information for validation 
+[INFO ] 2019-05-24 09:30:47.497 [main] StepDefinitions - 
+ Actual vehicle make for registration number Y881 FAN is HONDA same as expected HONDA
+[ERROR] 2019-05-24 09:30:47.498 [main] StepDefinitions - 
+ Actual vehicle colour for registration number Y881 FAN is GREEN but expected is RED
+[INFO ] 2019-05-24 09:31:01.689 [main] StepDefinitions - Opening the browser 
+[INFO ] 2019-05-24 09:31:03.519 [main] StepDefinitions -  Navigating to vehicle confirmation page 
+[INFO ] 2019-05-24 09:31:13.327 [main] StepDefinitions -  Navigating to vehicle information validation page 
+[INFO ] 2019-05-24 09:31:14.262 [main] StepDefinitions -  Reading vehicle information for validation 
+[INFO ] 2019-05-24 09:31:14.263 [main] StepDefinitions - 
+ Actual vehicle make for registration number FH67 ZZM is DACIA same as expected DACIA
+[ERROR] 2019-05-24 09:31:14.263 [main] StepDefinitions - 
+ Actual vehicle colour for registration number FH67 ZZM is RED but expected is GREEN
+[INFO ] 2019-05-24 09:31:43.289 [main] StepDefinitions - Opening the browser 
+[INFO ] 2019-05-24 09:31:43.974 [main] StepDefinitions -  Navigating to vehicle confirmation page 
+[INFO ] 2019-05-24 09:31:51.550 [main] StepDefinitions -  Navigating to vehicle information validation page 
+[INFO ] 2019-05-24 09:31:52.233 [main] StepDefinitions -  Reading vehicle information for validation 
+[INFO ] 2019-05-24 09:31:52.234 [main] StepDefinitions - 
+ Actual vehicle make for registration number VO56 VDD is VAUXHALL same as expected VAUXHALL
+[INFO ] 2019-05-24 09:31:52.234 [main] StepDefinitions - 
+ Actual vehicle colour for registration number VO56 VDD is GREY same as expected GREY
